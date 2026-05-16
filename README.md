@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Vyttor Camillo</h1>
-<h3 align="center">Estudante de Engenharia da Computação | Desenvolvedor Full Stack | Suporte Técnico & Banco de Dados</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack | Suporte Técnico & Banco de Dados</h3>
 
 <p align="center">
   <a href="https://github.com/VyttorRamos">
@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 
 💻 Atualmente atuando com suporte técnico, banco de dados e ERP  
-🎓 Estudante de Engenharia da Computação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📚 Interesse em Cibersegurança, Infraestrutura e Desenvolvimento Full Stack  
 ⚡ Experiência com desenvolvimento web, APIs, automações e projetos embarcados com ESP32/Arduino  
 
