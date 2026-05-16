@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 
 💻 Atualmente atuando com suporte técnico, banco de dados e ERP  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - SENAI  
 📚 Interesse em Cibersegurança, Infraestrutura e Desenvolvimento Full Stack  
 ⚡ Experiência com desenvolvimento web, APIs, automações e projetos embarcados com ESP32/Arduino  
 
@@ -86,9 +86,33 @@ Sistema para análise de TMA utilizado em suporte técnico.
 
 ## 📜 Certificações
 
-- Cisco JavaScript Essentials 1
-- Cisco JavaScript Essentials 2
+### Cisco Networking Academy
+- JavaScript Essentials 1
+- JavaScript Essentials 2
+- Linux Unhatched
+- Introdução à Cibersegurança
+- Conceitos Básicos de Redes
 - Cisco Networking Academy Learn-A-Thon 2026
+
+### Hackers do Bem
+- Formação em Cibersegurança — Básico do Programa Hackers do Bem
+
+### Outras Formações
+- Introdução ao Office (Excel, Word e PowerPoint) — Senac
+- Inglês Básico — CCAA
+
+---
+
+## 💼 Experiência Profissional
+
+### 🏢 Gsoft Brasil Sistemas
+**Suporte Técnico** • 2025 - Atualmente
+
+- Suporte ao sistema ERP
+- Consultas SQL
+- Identificação e resolução de problemas
+- Atendimento ao cliente
+- Relatórios técnicos
 
 ---
 
@@ -99,7 +123,7 @@ Sistema para análise de TMA utilizado em suporte técnico.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:vyttorgabriel878@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
